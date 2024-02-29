@@ -129,6 +129,3 @@ def main():
     print("Distance between Star 1 and Star 2:", distance_12)
     print("Distance between Star 2 and Star 3:", distance_23)
 
-
-if __name__ == "__main__":
-    main()

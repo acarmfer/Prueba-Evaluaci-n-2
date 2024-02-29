@@ -52,5 +52,3 @@ def main():
     print("Lista después de colocar la suma al principio:", resultado)
 
 
-if __name__ == "__main__":
-    main()

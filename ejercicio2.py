@@ -12,6 +12,3 @@ def main():
     formatter = TextFormatter(texto_bruto)
     texto_formateado = formatter.format_text()
     print(texto_formateado)
-
-if __name__ == "__main__":
-    main()
